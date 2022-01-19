@@ -1,0 +1,18 @@
+.empty-field {
+  margin-top: 25px;
+  /* border: 2px solid black; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.empty-field img {
+  max-width: 64px;
+  /* border: 2px solid black; */
+}
+
+.empty-field p {
+  font-size: 15px;
+  color: #737373;
+}

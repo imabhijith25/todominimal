@@ -1,0 +1,29 @@
+input {
+  border: 1px solid rgb(155, 152, 152);
+  border-radius: 3px;
+  padding: 7px;
+  width: 100%;
+  box-sizing: border-box;
+  font-family: "Roboto ", monospace;
+}
+button {
+  border: none;
+  border-radius: 3px;
+  padding: 7px;
+  background-color: #bf42f5;
+  box-sizing: border-box;
+  font-size: 20px;
+  padding: 0 10px 0 10px;
+  color: white;
+}
+button:hover {
+  background-color: #ff04f2;
+}
+input:focus {
+  outline: none;
+}
+.inputportion {
+  display: flex;
+  column-gap: 9px;
+  margin-bottom: 20px;
+}

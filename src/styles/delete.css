@@ -1,0 +1,14 @@
+.delete-button {
+  color: black;
+  display: flex;
+  align-items: center;
+
+  font-size: 13px;
+}
+.delete-button p {
+  stroke: 1px black;
+}
+.delete-button img {
+  height: 16px;
+  width: 16px;
+}
